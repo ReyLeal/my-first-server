@@ -1,0 +1,1 @@
+This is my first web server. I used the Gem 'sinatra' to create this server. Using sinatra's library, I used the File class (File.read, along with File.join) to get sinatra to open my hello.html file at it's root path.
